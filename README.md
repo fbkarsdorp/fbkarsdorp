@@ -2,7 +2,8 @@
 in Amsterdam. My research focuses on why some cultural phenomena are adopted and persist through 
 time, while others change or disappear (why, for example, did Python's f-string syntax take over 
 from the `str.format` syntax? :wink:). Additionally, I'm interested in measuring cultural
-diversity and compositional complexities, and how we can account for biases in our estimations. 
+diversity and compositional complexity, and how we can account for biases in our estimations 
+of diversity. 
 (check out our recent publication on estimating the amount of lost books in 
 [Science](https://www.science.org/doi/10.1126/science.abl7655)).
 
