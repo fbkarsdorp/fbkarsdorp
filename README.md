@@ -13,4 +13,4 @@ for [Humanities data analysis](https://press.princeton.edu/books/hardcover/97806
 An open access version of the book can be found at https://www.humanitiesdataanalysis.org
 
 📫 You can check my [website](https://www.karsdorp.io) for more information about my academic work, 
-follow me on [Twitter](https://twitter.com/FolgertK) or <a rel="nofollow me" class="Link--primary" href="https://akademienl.social/@folgertk">Mastodon</a>. 
+follow me on [Twitter](https://twitter.com/FolgertK) or <a rel="me follow" href="https://akademienl.social/@folgertk">Mastodon</a>. 
