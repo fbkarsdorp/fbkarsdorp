@@ -8,7 +8,7 @@ of diversity.
 [Science](https://www.science.org/doi/10.1126/science.abl7655)).
 
 🔭 I mostly program in Python, and I also like to teach a bit about programming. Together with Mike Kestemont 
-and Allen Riddell, I recently published a :book: with Princeton University Press about using Python 
+and Allen Riddell, I wrote a book about using Python 
 for [Humanities data analysis](https://press.princeton.edu/books/hardcover/9780691172361/humanities-data-analysis). 
 An open access version of the book can be found at https://www.humanitiesdataanalysis.org
 
